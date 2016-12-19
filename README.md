@@ -1,3 +1,3 @@
 # desi-mocks
 
-Magnitude distributions of mock DESI targets using a Gaussian mixture model.
+Magnitude distributions for mock selection of DESI targets using a Gaussian mixture model.
