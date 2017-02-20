@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 dr2_mag_distributions.ipynb
+bgsMag_gmm.fits
+elgMag_gmm.fits
+qsoMag_gmm.fits
+lrgMag_gmm.fits
